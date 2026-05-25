@@ -53,6 +53,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plai
 
 #
 
+<br />
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=AndreKurn11&theme=darkhub" />
+</p>
+
+#
 
 ---
 

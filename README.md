@@ -44,8 +44,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plai
 #
 <br />
 
-<p align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreKurn11&layout=compact&langs_count=6&bg_color=0d1117&title_color=ffffff&text_color=ffffff" height="240" width="450"/>
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreKurn11&layout=compact&langs_count=6&theme=github_dark"
+    alt="Top Languages"
+    height="180"
+  />
 </p>
 
 #

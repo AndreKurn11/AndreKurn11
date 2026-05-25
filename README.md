@@ -56,7 +56,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plai
 <br />
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndreKurn11&theme=darkhub" />
+  <img src="https://streak-stats.demolab.com?user=AndreKurn11&theme=github-dark" />
 </p>
 
 #
